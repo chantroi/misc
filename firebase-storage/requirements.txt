@@ -1,0 +1,9 @@
+requests 
+deta 
+jinja2
+flask
+uwsgi
+firebase-admin
+flask-cors
+flask-sock
+reactpy

@@ -1,0 +1,10 @@
+requests
+hydrogram
+tgcrypto
+pika
+gunicorn
+hypercorn
+Flask
+Quart
+flask-cors
+quart-cors

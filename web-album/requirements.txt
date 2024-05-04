@@ -1,0 +1,5 @@
+boto3==1.34.59
+botocore==1.34.59
+daphne==4.1.0
+Quart==0.19.4
+uvicorn
