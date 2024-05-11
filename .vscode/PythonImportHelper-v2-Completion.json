@@ -1,0 +1,753 @@
+[
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "send_file",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "abort",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "make_response",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "quote",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "unquote",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "list_files",
+        "importPath": "storage",
+        "description": "storage",
+        "isExtraImport": true,
+        "detail": "storage",
+        "documentation": {}
+    },
+    {
+        "label": "upload_name",
+        "importPath": "storage",
+        "description": "storage",
+        "isExtraImport": true,
+        "detail": "storage",
+        "documentation": {}
+    },
+    {
+        "label": "get_file",
+        "importPath": "storage",
+        "description": "storage",
+        "isExtraImport": true,
+        "detail": "storage",
+        "documentation": {}
+    },
+    {
+        "label": "delete_file",
+        "importPath": "storage",
+        "description": "storage",
+        "isExtraImport": true,
+        "detail": "storage",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "credentials",
+        "importPath": "firebase_admin",
+        "description": "firebase_admin",
+        "isExtraImport": true,
+        "detail": "firebase_admin",
+        "documentation": {}
+    },
+    {
+        "label": "initialize_app",
+        "importPath": "firebase_admin",
+        "description": "firebase_admin",
+        "isExtraImport": true,
+        "detail": "firebase_admin",
+        "documentation": {}
+    },
+    {
+        "label": "storage",
+        "importPath": "firebase_admin",
+        "description": "firebase_admin",
+        "isExtraImport": true,
+        "detail": "firebase_admin",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "getenv",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Quart",
+        "importPath": "quart",
+        "description": "quart",
+        "isExtraImport": true,
+        "detail": "quart",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "quart",
+        "description": "quart",
+        "isExtraImport": true,
+        "detail": "quart",
+        "documentation": {}
+    },
+    {
+        "label": "make_response",
+        "importPath": "quart",
+        "description": "quart",
+        "isExtraImport": true,
+        "detail": "quart",
+        "documentation": {}
+    },
+    {
+        "label": "Quart",
+        "importPath": "quart",
+        "description": "quart",
+        "isExtraImport": true,
+        "detail": "quart",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "quart",
+        "description": "quart",
+        "isExtraImport": true,
+        "detail": "quart",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "quart",
+        "description": "quart",
+        "isExtraImport": true,
+        "detail": "quart",
+        "documentation": {}
+    },
+    {
+        "label": "send_file",
+        "importPath": "quart",
+        "description": "quart",
+        "isExtraImport": true,
+        "detail": "quart",
+        "documentation": {}
+    },
+    {
+        "label": "cors",
+        "importPath": "quart_cors",
+        "description": "quart_cors",
+        "isExtraImport": true,
+        "detail": "quart_cors",
+        "documentation": {}
+    },
+    {
+        "label": "ServerSentEvent",
+        "importPath": "util.sse",
+        "description": "util.sse",
+        "isExtraImport": true,
+        "detail": "util.sse",
+        "documentation": {}
+    },
+    {
+        "label": "ServerSentEvent",
+        "importPath": "util.sse",
+        "description": "util.sse",
+        "isExtraImport": true,
+        "detail": "util.sse",
+        "documentation": {}
+    },
+    {
+        "label": "Consumer",
+        "importPath": "util.mq",
+        "description": "util.mq",
+        "isExtraImport": true,
+        "detail": "util.mq",
+        "documentation": {}
+    },
+    {
+        "label": "publish",
+        "importPath": "util.mq",
+        "description": "util.mq",
+        "isExtraImport": true,
+        "detail": "util.mq",
+        "documentation": {}
+    },
+    {
+        "label": "Consumer",
+        "importPath": "util.mq",
+        "description": "util.mq",
+        "isExtraImport": true,
+        "detail": "util.mq",
+        "documentation": {}
+    },
+    {
+        "label": "publish",
+        "importPath": "util.mq",
+        "description": "util.mq",
+        "isExtraImport": true,
+        "detail": "util.mq",
+        "documentation": {}
+    },
+    {
+        "label": "Thread",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "Thread",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "Thread",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "CORS",
+        "importPath": "flask_cors",
+        "description": "flask_cors",
+        "isExtraImport": true,
+        "detail": "flask_cors",
+        "documentation": {}
+    },
+    {
+        "label": "bot_token",
+        "importPath": "env",
+        "description": "env",
+        "isExtraImport": true,
+        "detail": "env",
+        "documentation": {}
+    },
+    {
+        "label": "mq_url",
+        "importPath": "env",
+        "description": "env",
+        "isExtraImport": true,
+        "detail": "env",
+        "documentation": {}
+    },
+    {
+        "label": "functools",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "functools",
+        "description": "functools",
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "pika",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pika",
+        "description": "pika",
+        "detail": "pika",
+        "documentation": {}
+    },
+    {
+        "label": "DeliveryMode",
+        "importPath": "pika",
+        "description": "pika",
+        "isExtraImport": true,
+        "detail": "pika",
+        "documentation": {}
+    },
+    {
+        "label": "ExchangeType",
+        "importPath": "pika.exchange_type",
+        "description": "pika.exchange_type",
+        "isExtraImport": true,
+        "detail": "pika.exchange_type",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "server.wsgi",
+        "description": "server.wsgi",
+        "isExtraImport": true,
+        "detail": "server.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "server.asgi",
+        "description": "server.asgi",
+        "isExtraImport": true,
+        "detail": "server.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "boto3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "boto3",
+        "description": "boto3",
+        "detail": "boto3",
+        "documentation": {}
+    },
+    {
+        "label": "NoCredentialsError",
+        "importPath": "botocore.exceptions",
+        "description": "botocore.exceptions",
+        "isExtraImport": true,
+        "detail": "botocore.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "S3",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "BytesIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "firebase-storage.main",
+        "description": "firebase-storage.main",
+        "peekOfCode": "def home():\n    if request.referrer:\n        if 'iframe' in request.referrer:\n            return \"Collection\"\n    return redirect(\"/album\"), 301\n@app.route(\"/favicon.ico\")\ndef favicon():\n    return send_file(\"static/icons8-favicon.gif\", as_attachment=False)\n@app.route(\"/album\", methods=[\"GET\"])\ndef files_handler():",
+        "detail": "firebase-storage.main",
+        "documentation": {}
+    },
+    {
+        "label": "favicon",
+        "kind": 2,
+        "importPath": "firebase-storage.main",
+        "description": "firebase-storage.main",
+        "peekOfCode": "def favicon():\n    return send_file(\"static/icons8-favicon.gif\", as_attachment=False)\n@app.route(\"/album\", methods=[\"GET\"])\ndef files_handler():\n    items = list_files() \n    def get_item(item):\n        link = quote(item)\n        return item, link\n    items = list(map(get_item, items))\n    return render_template(\"index.html\", items=items, len=len)",
+        "detail": "firebase-storage.main",
+        "documentation": {}
+    },
+    {
+        "label": "files_handler",
+        "kind": 2,
+        "importPath": "firebase-storage.main",
+        "description": "firebase-storage.main",
+        "peekOfCode": "def files_handler():\n    items = list_files() \n    def get_item(item):\n        link = quote(item)\n        return item, link\n    items = list(map(get_item, items))\n    return render_template(\"index.html\", items=items, len=len)\n@app.route(\"/json\", methods=[\"GET\"])\ndef files_handler_api():\n    url = str(request.url).replace('json', '')",
+        "detail": "firebase-storage.main",
+        "documentation": {}
+    },
+    {
+        "label": "files_handler_api",
+        "kind": 2,
+        "importPath": "firebase-storage.main",
+        "description": "firebase-storage.main",
+        "peekOfCode": "def files_handler_api():\n    url = str(request.url).replace('json', '')\n    items = list_files() \n    def get_item(item):\n        link = url + quote(item)\n        return link\n    items = list(map(get_item, items))\n    return {\"items\": items}\n@app.route(\"/<path:filename>\", methods=[\"GET\"])\ndef file_handler(filename):",
+        "detail": "firebase-storage.main",
+        "documentation": {}
+    },
+    {
+        "label": "file_handler",
+        "kind": 2,
+        "importPath": "firebase-storage.main",
+        "description": "firebase-storage.main",
+        "peekOfCode": "def file_handler(filename):\n    filename = unquote(filename)\n    try:\n        file = get_file(filename)\n        return render_template(\"video_player.html\", video_link=file)\n    except:\n        abort(404)\n@app.route(\"/<filename>\", methods=[\"POST\"])\ndef files_handler_put(filename):\n    filename = unquote(filename)",
+        "detail": "firebase-storage.main",
+        "documentation": {}
+    },
+    {
+        "label": "files_handler_put",
+        "kind": 2,
+        "importPath": "firebase-storage.main",
+        "description": "firebase-storage.main",
+        "peekOfCode": "def files_handler_put(filename):\n    filename = unquote(filename)\n    file_data = request.get_data()\n    file = Path(filename)\n    file.write_bytes(file_data)\n    res = upload_name(filename)\n    return str(res)\n@app.route(\"/<filename>\", methods=[\"DELETE\"])\ndef files_handler_delete(filename):\n    filename = unquote(filename)",
+        "detail": "firebase-storage.main",
+        "documentation": {}
+    },
+    {
+        "label": "files_handler_delete",
+        "kind": 2,
+        "importPath": "firebase-storage.main",
+        "description": "firebase-storage.main",
+        "peekOfCode": "def files_handler_delete(filename):\n    filename = unquote(filename)\n    delete_file(filename)\n    return f\"File {filename} deleted successfully\"",
+        "detail": "firebase-storage.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "firebase-storage.main",
+        "description": "firebase-storage.main",
+        "peekOfCode": "app = Flask(__name__, static_folder='static')\n@app.route(\"/\")\ndef home():\n    if request.referrer:\n        if 'iframe' in request.referrer:\n            return \"Collection\"\n    return redirect(\"/album\"), 301\n@app.route(\"/favicon.ico\")\ndef favicon():\n    return send_file(\"static/icons8-favicon.gif\", as_attachment=False)",
+        "detail": "firebase-storage.main",
+        "documentation": {}
+    },
+    {
+        "label": "list_files",
+        "kind": 2,
+        "importPath": "firebase-storage.storage",
+        "description": "firebase-storage.storage",
+        "peekOfCode": "def list_files():\n    blobs = bucket.list_blobs()\n    files = [file.name for file in blobs]\n    return files\ndef upload_name(file_name):\n    blob = bucket.blob(file_name)\n    blob.upload_from_filename(file_name)\n    blob.make_public()\n    os.remove(file_name)\n    return blob.public_url",
+        "detail": "firebase-storage.storage",
+        "documentation": {}
+    },
+    {
+        "label": "upload_name",
+        "kind": 2,
+        "importPath": "firebase-storage.storage",
+        "description": "firebase-storage.storage",
+        "peekOfCode": "def upload_name(file_name):\n    blob = bucket.blob(file_name)\n    blob.upload_from_filename(file_name)\n    blob.make_public()\n    os.remove(file_name)\n    return blob.public_url\ndef upload_file(file_path, file_name):\n    blob = bucket.blob(file_name)\n    blob.upload_from_file(file_path)\n    blob.make_public()",
+        "detail": "firebase-storage.storage",
+        "documentation": {}
+    },
+    {
+        "label": "upload_file",
+        "kind": 2,
+        "importPath": "firebase-storage.storage",
+        "description": "firebase-storage.storage",
+        "peekOfCode": "def upload_file(file_path, file_name):\n    blob = bucket.blob(file_name)\n    blob.upload_from_file(file_path)\n    blob.make_public()\n    return blob.public_url\ndef upload_bytes(file_data, file_name, content_type):\n    blob = bucket.blob(file_name)\n    blob.upload_from_string(file_data, content_type=content_type)\n    blob.make_public()\n    return blob.public_url",
+        "detail": "firebase-storage.storage",
+        "documentation": {}
+    },
+    {
+        "label": "upload_bytes",
+        "kind": 2,
+        "importPath": "firebase-storage.storage",
+        "description": "firebase-storage.storage",
+        "peekOfCode": "def upload_bytes(file_data, file_name, content_type):\n    blob = bucket.blob(file_name)\n    blob.upload_from_string(file_data, content_type=content_type)\n    blob.make_public()\n    return blob.public_url\ndef open_file(file_name):\n    return bucket.blob(file_name)\ndef get_file(file_name):\n    blob = bucket.blob(file_name)\n    blob.make_public()",
+        "detail": "firebase-storage.storage",
+        "documentation": {}
+    },
+    {
+        "label": "open_file",
+        "kind": 2,
+        "importPath": "firebase-storage.storage",
+        "description": "firebase-storage.storage",
+        "peekOfCode": "def open_file(file_name):\n    return bucket.blob(file_name)\ndef get_file(file_name):\n    blob = bucket.blob(file_name)\n    blob.make_public()\n    return blob.public_url\ndef download_bytes(file_name):\n    blob = bucket.blob(file_name)\n    return blob.download_as_bytes()\ndef delete_file(file_name):",
+        "detail": "firebase-storage.storage",
+        "documentation": {}
+    },
+    {
+        "label": "get_file",
+        "kind": 2,
+        "importPath": "firebase-storage.storage",
+        "description": "firebase-storage.storage",
+        "peekOfCode": "def get_file(file_name):\n    blob = bucket.blob(file_name)\n    blob.make_public()\n    return blob.public_url\ndef download_bytes(file_name):\n    blob = bucket.blob(file_name)\n    return blob.download_as_bytes()\ndef delete_file(file_name):\n    blob = bucket.blob(file_name)\n    blob.delete()",
+        "detail": "firebase-storage.storage",
+        "documentation": {}
+    },
+    {
+        "label": "download_bytes",
+        "kind": 2,
+        "importPath": "firebase-storage.storage",
+        "description": "firebase-storage.storage",
+        "peekOfCode": "def download_bytes(file_name):\n    blob = bucket.blob(file_name)\n    return blob.download_as_bytes()\ndef delete_file(file_name):\n    blob = bucket.blob(file_name)\n    blob.delete()",
+        "detail": "firebase-storage.storage",
+        "documentation": {}
+    },
+    {
+        "label": "delete_file",
+        "kind": 2,
+        "importPath": "firebase-storage.storage",
+        "description": "firebase-storage.storage",
+        "peekOfCode": "def delete_file(file_name):\n    blob = bucket.blob(file_name)\n    blob.delete()",
+        "detail": "firebase-storage.storage",
+        "documentation": {}
+    },
+    {
+        "label": "cred",
+        "kind": 5,
+        "importPath": "firebase-storage.storage",
+        "description": "firebase-storage.storage",
+        "peekOfCode": "cred = credentials.Certificate(\"collection-e0cec-3581ea27bf62.json\")\ninitialize_app(cred, {'storageBucket': 'collection-e0cec.appspot.com'})\nbucket = storage.bucket()\ndef list_files():\n    blobs = bucket.list_blobs()\n    files = [file.name for file in blobs]\n    return files\ndef upload_name(file_name):\n    blob = bucket.blob(file_name)\n    blob.upload_from_filename(file_name)",
+        "detail": "firebase-storage.storage",
+        "documentation": {}
+    },
+    {
+        "label": "bucket",
+        "kind": 5,
+        "importPath": "firebase-storage.storage",
+        "description": "firebase-storage.storage",
+        "peekOfCode": "bucket = storage.bucket()\ndef list_files():\n    blobs = bucket.list_blobs()\n    files = [file.name for file in blobs]\n    return files\ndef upload_name(file_name):\n    blob = bucket.blob(file_name)\n    blob.upload_from_filename(file_name)\n    blob.make_public()\n    os.remove(file_name)",
+        "detail": "firebase-storage.storage",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "rewrites.server.asgi",
+        "description": "rewrites.server.asgi",
+        "peekOfCode": "app = Quart(__name__)\ncors(app, allow_origin=[\"*\"])\nconsumer = Consumer()\nThread(target=consumer.run).start()\n@app.get(\"/\")\nasync def home():\n    return \"OK\"\n@app.get(\"/sse\")\nasync def sse():\n    async def send_events():",
+        "detail": "rewrites.server.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "consumer",
+        "kind": 5,
+        "importPath": "rewrites.server.asgi",
+        "description": "rewrites.server.asgi",
+        "peekOfCode": "consumer = Consumer()\nThread(target=consumer.run).start()\n@app.get(\"/\")\nasync def home():\n    return \"OK\"\n@app.get(\"/sse\")\nasync def sse():\n    async def send_events():\n        data = consumer.get()\n        for chunk in data:",
+        "detail": "rewrites.server.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "rewrites.server.wsgi",
+        "description": "rewrites.server.wsgi",
+        "peekOfCode": "def home():\n    return render_template(\"index.html\", bot_token=bot_token)\n@app.route(\"/sse\")\ndef consumer_rt():\n    def event_source():\n        for chunk in consumer.get():\n            event = ServerSentEvent(chunk)\n            yield event.encode()\n    response = make_response(\n        event_source(),",
+        "detail": "rewrites.server.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "consumer_rt",
+        "kind": 2,
+        "importPath": "rewrites.server.wsgi",
+        "description": "rewrites.server.wsgi",
+        "peekOfCode": "def consumer_rt():\n    def event_source():\n        for chunk in consumer.get():\n            event = ServerSentEvent(chunk)\n            yield event.encode()\n    response = make_response(\n        event_source(),\n        {\n            'Content-Type': 'text/event-stream; charset=utf-8',\n            'Cache-Control': 'no-cache',",
+        "detail": "rewrites.server.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "producer_rt",
+        "kind": 2,
+        "importPath": "rewrites.server.wsgi",
+        "description": "rewrites.server.wsgi",
+        "peekOfCode": "def producer_rt():\n    data = request.args.get('data') or request.form.get('data')\n    publish(data)\n    return {\"status\": \"OK\", \"message\": data}",
+        "detail": "rewrites.server.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "rewrites.server.wsgi",
+        "description": "rewrites.server.wsgi",
+        "peekOfCode": "app = Flask(__name__)\nCORS(app, origins=\"*\")\nconsumer = Consumer()\nThread(target=consumer.run).start()\n@app.route(\"/\")\ndef home():\n    return render_template(\"index.html\", bot_token=bot_token)\n@app.route(\"/sse\")\ndef consumer_rt():\n    def event_source():",
+        "detail": "rewrites.server.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "consumer",
+        "kind": 5,
+        "importPath": "rewrites.server.wsgi",
+        "description": "rewrites.server.wsgi",
+        "peekOfCode": "consumer = Consumer()\nThread(target=consumer.run).start()\n@app.route(\"/\")\ndef home():\n    return render_template(\"index.html\", bot_token=bot_token)\n@app.route(\"/sse\")\ndef consumer_rt():\n    def event_source():\n        for chunk in consumer.get():\n            event = ServerSentEvent(chunk)",
+        "detail": "rewrites.server.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Consumer",
+        "kind": 6,
+        "importPath": "rewrites.util.mq",
+        "description": "rewrites.util.mq",
+        "peekOfCode": "class Consumer:\n    def __init__(self):\n        self.connection = pika.BlockingConnection(parameters)\n        self.data = None\n    def on_message(self, chan, method_frame, header_frame, body, userdata=None):\n        self.data = body\n        chan.basic_ack(delivery_tag=method_frame.delivery_tag)\n    def run(self):\n        self.channel = self.connection.channel()\n        self.channel.exchange_declare(exchange=\"mq\", exchange_type=ExchangeType.direct, passive=False, durable=True, auto_delete=True)",
+        "detail": "rewrites.util.mq",
+        "documentation": {}
+    },
+    {
+        "label": "publish",
+        "kind": 2,
+        "importPath": "rewrites.util.mq",
+        "description": "rewrites.util.mq",
+        "peekOfCode": "def publish(data):\n    connection = pika.BlockingConnection(parameters)\n    channel = connection.channel()\n    channel.basic_publish('mq', 'standard_key', data, pika.BasicProperties(content_type='text/plain', delivery_mode=DeliveryMode.Transient))\n    connection.close()",
+        "detail": "rewrites.util.mq",
+        "documentation": {}
+    },
+    {
+        "label": "parameters",
+        "kind": 5,
+        "importPath": "rewrites.util.mq",
+        "description": "rewrites.util.mq",
+        "peekOfCode": "parameters = pika.URLParameters(mq_url)\nclass Consumer:\n    def __init__(self):\n        self.connection = pika.BlockingConnection(parameters)\n        self.data = None\n    def on_message(self, chan, method_frame, header_frame, body, userdata=None):\n        self.data = body\n        chan.basic_ack(delivery_tag=method_frame.delivery_tag)\n    def run(self):\n        self.channel = self.connection.channel()",
+        "detail": "rewrites.util.mq",
+        "documentation": {}
+    },
+    {
+        "label": "ServerSentEvent",
+        "kind": 6,
+        "importPath": "rewrites.util.sse",
+        "description": "rewrites.util.sse",
+        "peekOfCode": "class ServerSentEvent:\n    data: str\n    event: str | None = None\n    id: int | None = None\n    retry: int | None = None\n    def encode(self) -> bytes:\n        message = f\"data: {self.data}\"\n        if self.event is not None:\n            message = f\"{message}\\nevent: {self.event}\"\n        if self.id is not None:",
+        "detail": "rewrites.util.sse",
+        "documentation": {}
+    },
+    {
+        "label": "mq_url",
+        "kind": 5,
+        "importPath": "rewrites.env",
+        "description": "rewrites.env",
+        "peekOfCode": "mq_url = getenv(\"MQ\")\nbot_token = getenv(\"BOT\")",
+        "detail": "rewrites.env",
+        "documentation": {}
+    },
+    {
+        "label": "bot_token",
+        "kind": 5,
+        "importPath": "rewrites.env",
+        "description": "rewrites.env",
+        "peekOfCode": "bot_token = getenv(\"BOT\")",
+        "detail": "rewrites.env",
+        "documentation": {}
+    },
+    {
+        "label": "S3",
+        "kind": 6,
+        "importPath": "web-album.utils.base",
+        "description": "web-album.utils.base",
+        "peekOfCode": "class S3:\n    def __init__(self):\n        access_key = os.getenv('ACCESS_KEY')\n        secret_key = os.getenv('SECRET_KEY')\n        endpoint = \"https://s3.tebi.io\"\n        self.bucket = \"bosuutap\"\n        self.s3 = boto3.client('s3', aws_access_key_id=access_key, aws_secret_access_key=secret_key, endpoint_url=endpoint)\n    def upload(self, file_obj, object_name=None):\n        if object_name is None:\n            object_name = file_obj",
+        "detail": "web-album.utils.base",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "web-album.main",
+        "description": "web-album.main",
+        "peekOfCode": "app = Quart(__name__)\ns3 = S3()\n@app.route(\"/\")\nasync def home():\n    return await render_template(\n        \"index.html\",\n        all_files=s3.listdir()\n        )\n@app.route(\"/s3/upload/<filename>\", methods=['POST'])\nasync def upload_route(filename: str):",
+        "detail": "web-album.main",
+        "documentation": {}
+    },
+    {
+        "label": "s3",
+        "kind": 5,
+        "importPath": "web-album.main",
+        "description": "web-album.main",
+        "peekOfCode": "s3 = S3()\n@app.route(\"/\")\nasync def home():\n    return await render_template(\n        \"index.html\",\n        all_files=s3.listdir()\n        )\n@app.route(\"/s3/upload/<filename>\", methods=['POST'])\nasync def upload_route(filename: str):\n    data = await request.get_data()",
+        "detail": "web-album.main",
+        "documentation": {}
+    }
+]
